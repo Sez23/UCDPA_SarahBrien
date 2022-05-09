@@ -14,6 +14,8 @@ if __name__ == '__main__':
     print_hi('something')
     x=10
     print(x)
+    print("hello world")
+
 
 
 
